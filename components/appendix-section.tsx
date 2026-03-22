@@ -53,7 +53,7 @@ const teamMembers = [
   { name: "Bùi Minh Hiếu", role: "Leader", studentId: "SE184406" },
   { name: "Hồ Lê Bình", role: "Member", studentId: "SE183564" },
   { name: "Nguyễn Trần Gia Bảo", role: "Member", studentId: "SE181937" },
-  { name: "QuanClaude_Obert4.6", role: "Special Member", studentId: "" },
+  { name: "QuanClaude_Opus_4.6", role: "Special Member", studentId: "" },
 ];
 
 const workflowSteps = [
